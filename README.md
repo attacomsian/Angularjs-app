@@ -1,5 +1,5 @@
 Angularjs-app
-=============
+-------------
 
 My first AngularJS app by following the official tutorial from AngularJS website.
 
